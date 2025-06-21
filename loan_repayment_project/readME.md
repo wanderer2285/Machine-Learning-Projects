@@ -58,7 +58,6 @@ The project shows how ensemble methods can improve loan repayment prediction mod
 
 ###  How to Run
 1. Clone the repository or open the notebook directly in Google Colab:
-   [Loan_Repayment_Prediction.ipynb](https://colab.research.google.com/github/shsarv/ML-and-its-Application/blob/main/Loan_Repayment_Prediction.ipynb)
 2. Install necessary Python libraries (if not already installed):
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
